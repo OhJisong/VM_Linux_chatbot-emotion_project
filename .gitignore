@@ -1,0 +1,11 @@
+.env
+*.log
+__pycache__/
+*.sqlite3
+*.pyc
+.idea/
+.vscode/
+node_modules/
+vendor/
+chatbot_db_data/
+

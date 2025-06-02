@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: chatbot_project-phpmyadmin
+    ports:
+      - 8081:80
+    environment:
+      PMA_HOST: db
+      PMA_USER: chatbot_user
+      PMA_PASSWORD: chatbot_passwd
+    depends_on:
+      - db
+

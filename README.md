@@ -94,30 +94,6 @@ docker-compose up -d
 
 ---
 
-## 예시 화면
-
-- 로그인 화면  
-  ![login](./screenshots/login.png)
-
-- 회원가입 화면  
-  ![register](./screenshots/register.png)
-
-- 회원가입완료 화면  
-  ![register_success](./screenshots/register_success.png)
-
-- 로그아웃 화면  
-  ![logout](./screenshots/logout.png)
-
-- 챗봇 대화 화면  
-  ![chat](./screenshots/chat.png)
-
-- DB Tables : users, messages, recommended list
-  ![users](./screenshots/users.png)
-  ![messages](./screenshots/messages.png)
-  ![list](./screenshots/list.png)
-
----
-
 ## 프로젝트 정보
 
 - **수업명**: 리눅스 실습 프로젝트 (2025년 상반기)
